@@ -1,21 +1,79 @@
-# 💫 About Me:
-Passionate about Software Quality Assurance and Testing, with experience in Automation Testing using Selenium and TestNG,<br>API and backend validation, and Web Application Testing. Skilled in developing backend applications with ASP.NET Core and<br>committed to continuous learning of new technologies.700+ coding problems solved, demonstrating strong analytical and<br>algorithmic thinking.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nasir-ahmed-666760352/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nasircste15@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nasircste&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nasircste&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasircste&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nasircste&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi, I'm Nasir Ahmed</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nasircste&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me:
+Passionate about Software Quality Assurance and Testing, with experience in Automation Testing using Selenium and TestNG,API and backend validation, and Web Application Testing. Skilled in developing backend applications with ASP.NET Core and committed to continuous learning of new technologies.700+ coding problems solved, demonstrating strong analytical and algorithmic thinking.
+
+---
+
+- 🔭 I’m currently working on [ tutorials-ninja-automation-java-pom.](https://github.com/nasircste/tutorials-ninja-automation-java-pom)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nasir-ahmed-666760352/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nasir-ahmed-666760352/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/nasir_cste" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nasir_cste" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nasir" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/nasircste15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nasircste15/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/nasircste15?tab=activity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/nasircste15?tab=activity" height="30" width="40" /></a>
+</p>
+
+---
+
+## 📊 Problem-Solving Summary
+- Total solved: 700+ (Algorithms & Data Structures)
+- LeetCode: 50+ SQL problems solved
+- Focus areas: DP, Graphs, Trees, Sliding Window,Linked List, Two Pointers, Greedy, Recursion,Stack, Queue,Map,Set, SQL joins,Subquery, aggregations, window functions.
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+---
+
+## 🏅 Achievements
+- Developed a reusable Selenium POM automation framework with TestNG listeners and data-driven tests
+- Developed backend services in ASP.NET Core with EF Core and clean architecture
+
+---
+
+
+
+
+## 🔄 How I Work (Testing Approach)
+1. Understand & clarify requirements and edge cases
+2. Design high-impact scenarios → Smoke/Sanity first, then Regression coverage
+3. Automate repeatable flows with stable locators and clean POM
+4. Integrate with CI for fast feedback on PRs
+5. Monitor, report and scale coverage responsibly
+
+---
+
+
+## 🤝 Open to
+- Intern of QA / SDET roles
+- Backend + QA hybrid work
+- Collaboration on test frameworks and API validation
+
+---
+
+
+## 📈 GitHub Stats
+
+| Metric | View |
+|--------|------|
+| General Stats | ![](https://github-readme-stats.vercel.app/api?username=nasircste&theme=dark&hide_border=false&include_all_commits=false&count_private=false) |
+| Streak | ![](https://nirzak-streak-stats.vercel.app/?user=nasircste&theme=dark&hide_border=false) |
+| Languages | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasircste&theme=dark&hide_border=false&layout=compact) |
+| Contributor Activity | ![](https://github-contributor-stats.vercel.app/api?username=nasircste&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nasircste&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+ 
+</p>
+
+---
+
