@@ -3,7 +3,7 @@
 ---
 
 ## 💫 About Me:
-Passionate about Software Quality Assurance and Testing, with experience in Automation Testing using Selenium and TestNG,API and backend validation, and Web Application Testing. Skilled in developing backend applications with ASP.NET Core and committed to continuous learning of new technologies.700+ coding problems solved, demonstrating strong analytical and algorithmic thinking.
+Passionate about Software Quality Assurance and Testing, with experience in Automation Testing using Selenium and TestNG,API and backend validation, and Web Application Testing. Skilled in developing backend applications with ASP.NET Core and committed to continuous learning of new technologies.800+ coding problems solved, demonstrating strong analytical and algorithmic thinking.
 
 ---
 
@@ -23,7 +23,7 @@ Passionate about Software Quality Assurance and Testing, with experience in Auto
 ---
 
 ## 📊 Problem-Solving Summary
-- Total solved: 700+ (Algorithms & Data Structures)
+- Total solved: 800+ (Algorithms & Data Structures)
 - LeetCode: 50+ SQL problems solved
 - Focus areas: DP, Graphs, Trees, Sliding Window,Linked List, Two Pointers, Greedy, Recursion,Stack, Queue,Map,Set, SQL joins,Subquery, aggregations, window functions.
 
