@@ -7,7 +7,7 @@ Passionate about Software Quality Assurance and Testing, with experience in Auto
 
 ---
 
-- 🔭 I’m currently working on [OrangeHRMAutomationProject]([https://github.com/nasircste/OrangeHRMAutomationProject])
+- 🔭 I’m currently working on [OrangeHRMAutomationProject](https://github.com/nasircste/OrangeHRMAutomationProject)
 
 ---
 
