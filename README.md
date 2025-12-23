@@ -7,7 +7,7 @@ Passionate about Software Quality Assurance and Testing, with experience in Auto
 
 ---
 
-- 🔭 I’m currently working on [ tutorials-ninja-automation-java-pom.](https://github.com/nasircste/tutorials-ninja-automation-java-pom)
+- 🔭 I’m currently working on [OrangeHRMAutomationProject]([https://github.com/nasircste/OrangeHRMAutomationProject])
 
 ---
 
