@@ -3,13 +3,11 @@
 ---
 
 ## 💫 About Me:
-Passionate about Software Quality Assurance and Testing, with experience in Automation Testing using Selenium and TestNG,API and backend validation, and Web Application Testing. Skilled in developing backend applications with ASP.NET Core and committed to continuous learning of new technologies.800+ coding problems solved, demonstrating strong analytical and algorithmic thinking.
+ Skilled in developing backend applications with ASP.NET Core and committed to continuous learning of new technologies.800+ coding problems solved, demonstrating strong analytical and algorithmic thinking.
 
----
 
-- 🔭 I’m currently working on [OrangeHRMAutomationProject](https://github.com/nasircste/OrangeHRMAutomationProject)
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +33,6 @@ Passionate about Software Quality Assurance and Testing, with experience in Auto
 ---
 
 ## 🏅 Achievements
-- Developed a reusable Selenium POM automation framework with TestNG listeners and data-driven tests
 - Developed backend services in ASP.NET Core with EF Core and clean architecture
 
 ---
@@ -43,23 +40,7 @@ Passionate about Software Quality Assurance and Testing, with experience in Auto
 
 
 
-## 🔄 How I Work (Testing Approach)
-1. Understand & clarify requirements and edge cases
-2. Design high-impact scenarios → Smoke/Sanity first, then Regression coverage
-3. Automate repeatable flows with stable locators and clean POM
-4. Integrate with CI for fast feedback on PRs
-5. Monitor, report and scale coverage responsibly
-
----
-
-
-## 🤝 Open to
-- Intern of QA / SDET roles
-- Backend + QA hybrid work
-- Collaboration on test frameworks and API validation
-
----
-
+----
 
 ## 📈 GitHub Stats
 
