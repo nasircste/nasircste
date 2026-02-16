@@ -3,7 +3,8 @@
 ---
 
 ## 💫 About Me:
- Skilled in developing backend applications with ASP.NET Core and committed to continuous learning of new technologies.800+ coding problems solved, demonstrating strong analytical and algorithmic thinking.
+Aspiring mobile application developer with strong problem-solving capabilities, demonstrated through solving 800+ coding
+challenges. Also Skilled in developing backend applications with Golang and ASP.NET Core and committed to continuous learning of new technologies.
 
 
 
